@@ -1,0 +1,2 @@
+Design document: https://docs.google.com/document/d/1REz6Q_B7LQEDE93I-3HgHcVih14-fu4uJZNptWAAYPo/edit?usp=sharing
+Implementation: https://github.com/Slushnas/jamming/pull/4
